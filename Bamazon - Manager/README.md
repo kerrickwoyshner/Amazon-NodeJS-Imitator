@@ -1,4 +1,5 @@
 Bamazon-Node-App
+
 A take on the classic bargain-hunter using the command line in Node.js and databases in Sequel Pro/MySQL.
 
 To begin:
