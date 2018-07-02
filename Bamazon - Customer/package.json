@@ -1,0 +1,26 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "A take on the classic bargain-hunter using the command line in Node.js and databases in Sequel Pro.",
+  "main": "index.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0",
+    "package": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kerrickwoyshner/Bamazon-Node-App.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kerrickwoyshner/Bamazon-Node-App/issues"
+  },
+  "homepage": "https://github.com/kerrickwoyshner/Bamazon-Node-App#readme"
+}
