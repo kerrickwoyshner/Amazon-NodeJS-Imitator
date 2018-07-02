@@ -1,3 +1,7 @@
+// Hello! This application is handy for reviewing inventory, creating a new product line, adding to inventory, or viewing low inventory  in an Amazon-like application.
+// run "source schema.sql" in the mysql command-line interface to get started
+// The instructions are intuitive and walk you through each step of the application when you run it in Node.js
+
 // Initializes the npm packages used
 var mysql = require("mysql");
 var inquirer = require("inquirer");
