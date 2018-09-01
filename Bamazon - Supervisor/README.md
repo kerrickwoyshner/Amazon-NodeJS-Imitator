@@ -1,4 +1,4 @@
-# Bamazon-Node-App: Supervisor
+# Amazon-NodeJS-Imitator: Supervisor
 
 A shopping support tool designed for supervisors to generate reports on each department's performance and add nonexistent departments to the application.  This application is equipped with flexible databases in Sequel Pro/MySQL.
 
