@@ -1,4 +1,4 @@
-Bamazon-Node-App
+# Bamazon-Node-App: Manager
 
 A take on the classic bargain-hunter using the command line in Node.js and databases in Sequel Pro/MySQL.
 
