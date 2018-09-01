@@ -1,6 +1,6 @@
 # Bamazon-Node-App: Manager
 
-A take on the classic bargain-hunter using the command line in Node.js and databases in Sequel Pro/MySQL.
+A shopping support tool designed for managers to view products in low supply and add products to their inventory count.  This application is equipped with flexible databases in Sequel Pro/MySQL.
 
 To begin:
 
@@ -14,6 +14,6 @@ To begin:
   
   <img src="images/AddInventory.PNG" width="100%" height="100%">
   
-7. Please let me know if you have any questions! I hope you enjoy using this app as much as I enjoy publishing it :)
+7. Please let me know if you have any questions! I hope you enjoy using this app as much as I enjoyed publishing it.
 
 ~KHW
