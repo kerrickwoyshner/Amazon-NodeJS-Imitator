@@ -1,10 +1,10 @@
 # Bamazon-Node-App: Supervisor
 
-A take on the classic bargain-hunter using the command line in Node.js and databases in Sequel Pro/MySQL.
+A shopping support tool designed for supervisors to generate reports on each department's performance and add nonexistent departments to the application.  This application is equipped with flexible databases in Sequel Pro/MySQL.
 
 To begin:
 
-1. Open up terminal/bash on your PC and navigate into the Bamazon-Node-App folder
+1. Open up terminal/bash on your PC and navigate into the Amazon-NodeJS-Imitator folder
 2. Double-check that you're inside the Supervisor version of this application, then load the schema.sql file into your application so that    your database is set. On the MySQL Command-Line Interface (CLI), it's as easy as writing "mysql -u *username* -p *password*" and          writing "source schema.sql" (follow this video if you have any questions: https://www.youtube.com/watch?v=6HSVXJZk0aE).  If you're        using Sequel Pro and have any questions on getting your database populated, check out this video 
    (https://www.youtube.com/watch?v=GFBwvrVpCOI) that will walk you through the process of creating our data table on Sequel Pro.
 3. Begin using the app by writing "node bamazonSupervisor.js"
