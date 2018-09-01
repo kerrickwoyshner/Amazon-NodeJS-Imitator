@@ -5,7 +5,8 @@ A take on the classic bargain-hunter using the command line in Node.js and datab
 To begin:
 
 1.  Open up terminal/bash on your PC and navigate into the Bamazon-Node-App folder
-2.  Double-check that you're inside the Customer version of this application, then load the schema.sql file into your application so that     your database is set.  On MySQL WorkBench, it's as easy as writing "mysql -u <username> -p <password>" and writing "source                 schema.sql".  If you're using Sequel Pro and have any questions on getting your database populated, check out this video                   (https://www.youtube.com/watch?v=GFBwvrVpCOI) that will walk you through the process of creating our schema.sql file on Sequel Pro.
+2. Double-check that you're inside the Manager version of this application, then load the schema.sql file into your application so that      your database is set. On the MySQL Command-Line Interface (CLI), it's as easy as writing "mysql -u <username> -p <password>" and          writing "source schema.sql" (follow this video if you have any questions: https://www.youtube.com/watch?v=6HSVXJZk0aE).  If you're        using Sequel Pro and have any questions on getting your database populated, check out this video 
+   (https://www.youtube.com/watch?v=GFBwvrVpCOI) that will walk you through the process of creating our data table on Sequel Pro.
 3.  Begin using the app by writing "node bamazonCustomer.js"
 4.  You will see the table listing all of the products from the SQL database bamazon
   
