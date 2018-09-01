@@ -2,7 +2,7 @@
 A shopping support tool designed for customers, managers, and supervisors entirely in Node.js with databases in MySQL/Sequel Pro.
 
 1.  Pull the following repo into your text editor and run it using Node.js in the bash/terminal window of your choice.
-2.  Each folder has a different tier of responsibility over the Bamazon application, starting at the Customer level where you can purchase products...
+2.  Each folder has a different tier of responsibility over the application, starting at the Customer level where you can purchase products...
 
 <img src="Bamazon - Customer/images/ShelfScreen.PNG" width="100%" height="100%">
 
@@ -10,7 +10,7 @@ The Manager level where you can add products to the inventory and see products i
 
 <img src="Bamazon - Manager/images/OperationControl.PNG" width="100%" height="100%">
 
-The Supervisor level where you can generate reports on each product department's performance and add nonexisting departments to the Bamazon application...
+The Supervisor level where you can generate reports on each product department's performance and add nonexisting departments to the application...
 
 <img src="Bamazon - Supervisor/images/DepartmentControl.PNG" width="100%" height="100%">
 
