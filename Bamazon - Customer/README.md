@@ -18,6 +18,6 @@ To begin:
 <img src="images/CustomerSelection.PNG" width="100%" height="100%">
 
 7. If you decide to purchase another item, you may. Notice that the app will not allow you to purchase more than is in stock. You can          "thank" the management for this one.
-8. Please let me know if you have any questions! I hope you enjoy using this app as much as I enjoy publishing it :)
+8. Please let me know if you have any questions! I hope you enjoy using this app as much as I enjoyed publishing it.
 
 ~KHW
