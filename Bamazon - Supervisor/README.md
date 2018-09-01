@@ -14,4 +14,5 @@ To begin:
     <img src="images/NewDepartment.PNG" width="100%" height="100%">
   
 6. Please let me know if you have any questions! I hope you enjoy using this app as much as I enjoy publishing it :)
+
 ~KHW
