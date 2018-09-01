@@ -1,4 +1,4 @@
-# Bamazon-Node-App
+# Amazon Node.js Imitator
 A take on the classic bargain-hunter using the command line in Node.js and databases in MySQL and Sequel Pro.
 
 1.  Pull the following repo into your text editor and run it using Node.js in the bash/terminal window of your choice.
